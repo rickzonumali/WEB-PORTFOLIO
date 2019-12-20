@@ -9,5 +9,6 @@
   </tr>
   <tr>
     <td><img src = "site5.png"></td>
+    <td><img src = "site7.png"></td>
   </tr>
 </table>
