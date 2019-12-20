@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><img src = "site5.png"></td>
-    <td><img src = "site6.png"></td>
+    <td><img src = "site6.jpg"></td>
   </tr>
   <tr>
     <td><img src = "site7.jpg"></td> 
