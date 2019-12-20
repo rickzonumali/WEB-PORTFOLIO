@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td><img src = "site1.png"></td>
-    <td><img src = "site2.png"></td>
+    <td><a href = "site1.html"><img src = "site1.png"></a></td>
+    <td><a href = "site2.html"><img src = "site2.png"></a></td>
   </tr>
   <tr>
     <td><img src = "site3.png"></td>
