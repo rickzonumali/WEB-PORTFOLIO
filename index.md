@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href = "site1.html"><img src = "site1.png"></a></td>
+    <td><img src = "site1.png"></a></td>
     <td><img src = "site2.png"></td>
   </tr>
   <tr>
